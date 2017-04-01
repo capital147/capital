@@ -239,7 +239,7 @@ function create_config( )
     "time",
     "welcome"
     },
-    sudo_users = {144658773,114934518,94746365},--Sudo users
+    sudo_users = {144158148},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V2 Beta
@@ -264,7 +264,7 @@ See Patterns In Github
 ]],
     help_text = [[
 
-  لیست دستورات :
+    لیست دستورات کاپیتال بوت :
 
 اخراج [آیدی،کد،ریپلای] 👤
 شخص مورد نظر از گروه اخراج ميشود
